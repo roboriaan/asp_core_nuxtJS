@@ -1,1 +1,4 @@
-"# asp_core_nuxtJS" 
+Install :
+
+$ npm install
+$ dotnet run
